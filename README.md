@@ -18,7 +18,7 @@
 
 ## 参考爬取公众号文章效果
 
-http://www.hackdig.com/02/hack-280124.htm
+http://thinktank.taocms.org/03/6546.htm
 
 ## 获取方式
 
